@@ -1,0 +1,12 @@
+# My project brief
+
+## The question
+
+Which settlements in Agbado-Oke-Odo, Alimosho LGA sit in low-lying land within 200 metres of the Ilo-Awela River?
+
+## The data I need
+
+* Ward/LGA boundaries – GRID3 – [https://data.grid3.org](https://data.grid3.org) – GeoPackage
+* Settlement extents – GRID3 – [https://data.grid3.org](https://data.grid3.org) – GeoPackage
+* Watercourses – OSM via QuickOSM – extracted for Agbado-Oke-Odo
+* Elevation – Copernicus DEM 30 m – [https://portal.opentopography.org](https://portal.opentopography.org)
