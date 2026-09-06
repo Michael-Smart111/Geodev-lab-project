@@ -2,26 +2,5 @@
 
 Which settlements in Agbado-Oke-Odo, Alimosho LGA, Lagos State, are located in low-lying areas within 200 metres of a watercourse?
 
-### Why it matters.
-
-Flooding is a recurring problem in parts of Lagos, particularly in low-lying settlements located close to rivers and drainage channels. The results could help identify settlements that may be more exposed to flooding and support flood-risk assessment, drainage planning, and prioritization of areas for further investigation.
-
-### The data I need.
-Agbado-Oke-Odo/Alimosho administrative boundaries: Polygon boundaries defining the study area.
-Watercourses: Rivers, streams and other mapped waterways within and around the study area.
-Settlement extents: Spatial locations or polygons representing settlements and built-up areas.
-Elevation data: Digital Elevation Model showing the terrain elevation across the study area.
-
-### The data Source
-Administrative boundaries – GRID3 – https://data.grid3.org
-Watercourses – OpenStreetMap via QuickOSM – https://www.openstreetmap.org
-Settlement extents – GRID3 – https://data.grid3.org
-Elevation data – Copernicus DEM 30 m via OpenTopography – https://portal.opentopography.org
-
-### What I would build.
-
-I would build an interactive Flood Vulnerability Map and Settlement Dashboard showing settlements, watercourses, elevation, and areas within 200 metres of watercourses. The dashboard would allow a user to select a settlement or area and identify locations where proximity to a watercourse and low elevation overlap, providing a simple way to identify potential flood-risk hotspots.
-
-### Project Status
-Week 1: Project definition, data source identification and feasibility assessment completed
-
+Built over twelve months with GeoDev Lab Africa , Cihort One.
+See project.brief.md for the full brief
