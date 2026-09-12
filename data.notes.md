@@ -17,7 +17,7 @@
 - No nulls in highway
 - Coverage look good in the built-up area and sparse at the edge.
 
-## OSM roads, extracted via QuickOSM
+## OSM buildingd, extracted via QuickOSM
 - Query : buildings layer extent in Alimosho LGA
 - Extracted: [08/09/2026]
 - 564,007 features, Polygon
