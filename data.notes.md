@@ -25,3 +25,11 @@
 - Columns: osm_id (integer), full_id (UniqueID), osm_type (text), building (text), name (null), amenity (null), brand (null), wheelchair (null)
 - No nulls in osm_type
 - Coverage look good in the built-up area and sparse at the edge.
+
+$## CRS and preparation
+- All source layers arrived in EPSG:4326
+- Study area: Alimosho LG, extracted from GRID3 Nigeria LGA Boundary
+- All layers clipped to study area, then reprojected to ESPG: 32631 (UTM 31N)
+- Area check: Alimosho LGA 183.5 km2, matches published figure
+- Working files in processed, raw files untouched
+
